@@ -1,0 +1,25 @@
+body{
+    background-image: url('../images/Frame\ 1.jpg');
+    width: 1150px;
+    margin: 70px auto 0px auto;
+}
+div#topo{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+div#topo ul{
+    list-style: none;
+}
+div#topo li{
+    display: inline-block;
+    padding: 10px;
+
+}
+
+footer{
+    font-size: 14pt;
+    font-weight: bolder;
+    padding-top: 50px;
+    text-align: center;
+}

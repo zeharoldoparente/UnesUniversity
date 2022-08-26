@@ -1,0 +1,13 @@
+p{
+    text-align: justify;
+    text-indent: 50px;
+    padding: 5px;
+}
+
+div#meio{
+    border-bottom: 1px solid rgba(000, 000, 000, .2);
+}
+
+div#meio h1{
+    padding-top: 30px;
+}
